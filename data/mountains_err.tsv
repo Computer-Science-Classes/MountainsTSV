@@ -1,0 +1,187 @@
+Country	Type	Mountain	Latitude	Longitude	Elevation	Error
+India	Mountain	Kakkir Malai Mountain	??????	??????	1015 m	NonNumericLatitude
+Italy	Mountain	Cimon della Pala    46.287224	11.820728	3185 m	IncorrectNumberOfColumns
+Australia	Mountain	Black Johnnys Tier	-42.043811	146.954842 1082 m	IncorrectNumberOfColumns
+Australia	Mountain	Smith's Hill	??????	??????	67 m	NonNumericLatitude
+Australia	Mountain	Mount Tunbubudla West	-26.963235 152.901278	294 m	IncorrectNumberOfColumns
+Australia    Mountain	Lowes Mount	-33.619265	149.834375	1150 m	IncorrectNumberOfColumns
+Australia	Mountain	Mount Lockyer	-22.457122	118.772936 1005 m	IncorrectNumberOfColumns
+Australia	Mountain	Mount Barnett	-16.750879	125.939541 540 m	IncorrectNumberOfColumns
+Australia	Mountain	Mount Nicolay    -27.110020	116.359463	358 m	IncorrectNumberOfColumns
+Australia	Mountain	Prominent Hill	-26419	121.482439	546 m	InvalidLatitude
+Australia	Mountain	Teedermully Hill	-32.786553	116.612492	390 ??	InvalidElevationUnit
+Australia	Mountain	Blue Hill    -29.590923	119.574766	402 m	IncorrectNumberOfColumns
+Australia	Mountain	Low Trap Hills	-31.062492	122.405720	366		IncorrectNumberOfColumns
+Australia	Mountain	Haast Bluff	-23.364871	132010	1118 m	InvalidLongitude
+Australia	Mountain	McDonald Peak	-28.254342	134.751005	???? m	NonNumericElevation
+Australia	Mountain	Davis Hill    -20.932583	140.615988	385 m	IncorrectNumberOfColumns
+Australia	Mountain	Mount Fitz    -22.459264	150.261297	279 m	IncorrectNumberOfColumns
+Australia	Mountain	Mount Calder	-24.960382	145.062876	383		IncorrectNumberOfColumns
+Australia    Mountain	Mount Shanahan	-30.032244	139.500532	364 m	IncorrectNumberOfColumns
+Australia	Mountain	Mount Oliphant    -30.293461	139.325953	624 m	IncorrectNumberOfColumns
+Australia	Mountain	Windamerta Hill	-31.931987	139.831066	381		IncorrectNumberOfColumns
+Australia	Mountain	Mount Intrepid	-28.741548 142.103176	205 m	IncorrectNumberOfColumns
+Australia	Mountain	Mount Birkhead	-24.445665	146.297207	626 ??	InvalidElevationUnit
+Australia	Mountain    Mount Walpanara	-27.135077	149.124813	283 m	IncorrectNumberOfColumns
+Australia	Mountain	Sulcor Mountain	-30.843731	150.812244	693 ??	InvalidElevationUnit
+Australia	Mountain	Byong Hills	-33.069750	147657	345 m	InvalidLongitude
+Australia	Mountain    Red Hill	-32.720360	151.376238	203 m	IncorrectNumberOfColumns
+Australia	Mountain	Round Mountain	-28.333471	153.551445	???? m	NonNumericElevation
+Australia	Mountain	Mount Lookout	-30.485885 152.931576	236 m	IncorrectNumberOfColumns
+Australia	Mountain	Tinebank Mountain	-31.199441	152521	957 m	InvalidLongitude
+Australia	Mountain	The Mound	-37.312154	145.020390 458 m	IncorrectNumberOfColumns
+Australia	Mountain	Mount Kosciuszko	-36.455877	148.263330	???? m	NonNumericElevation
+Australia	Mountain	Mount Hump	-37629	146.783867	1238 m	InvalidLatitude
+Australia	Mountain	Five Mile Peak	-38.970887	146.384668	560 ??	InvalidElevationUnit
+Australia	Mountain	Snowy North	-42.861118	146.645765	???? m	NonNumericElevation
+Australia    Mountain	Mount Dempsey	-15.862361	130.470715	264 m	IncorrectNumberOfColumns
+Australia	Mountain	Mount Gosse	-15.542180	131503	251 m	InvalidLongitude
+Australia	Mountain	Yardiacco Hill	-28.754191	118.313913 459 m	IncorrectNumberOfColumns
+Austria    Mountain	Kapall	47.148606	10.248999	2315 m	IncorrectNumberOfColumns
+Austria	Mountain    Keeskogel	47.136328	12.311784	3291 m	IncorrectNumberOfColumns
+Austria	Mountain	Rinnkogel	47.666742	13.485926 1823 m	IncorrectNumberOfColumns
+Malawi    Mountain	Kabondwe	-11.632274	33.541038	1370 m	IncorrectNumberOfColumns
+Malawi	Mountain	Chimphako	??????	??????	1220 m	NonNumericLatitude
+Malawi	Mountain	Mateska	-16.936602	35.172428 953 m	IncorrectNumberOfColumns
+Lesotho	Mountain	Thaba Putsua	-30349	28.033985	2908 m	InvalidLatitude
+Malawi    Mountain	Nakasindagombwe	-9.662151	33.316947	1348 m	IncorrectNumberOfColumns
+Mozambique	Mountain	Camuala	-14.807983	32.183669	1104 ??	InvalidElevationUnit
+Mozambique	Mountain	Muijeleveti	-12.707444	35.878231	???? m	NonNumericElevation
+Mozambique	Mountain	Namocolue	-13.628042	37.767223 556 m	IncorrectNumberOfColumns
+Mozambique	Mountain    Niuapa	-13.156035	38.390286	623 m	IncorrectNumberOfColumns
+Mozambique	Mountain	Tava	-12.723603	39.259216	???? m	NonNumericElevation
+Mozambique	Mountain	Tecapuaro	-13.985292 39.268144	456 m	IncorrectNumberOfColumns
+Mozambique	Mountain	Lipembe	-16.288878	35.708239	???? m	NonNumericElevation
+Mozambique    Mountain	Comane	-16.194331	36.599735	939 m	IncorrectNumberOfColumns
+Mozambique	Mountain	Tipui	-13866	39.402200	458 m	InvalidLatitude
+Mozambique	Mountain	Ecopo	??????	??????	431 m	NonNumericLatitude
+Mozambique	Mountain	Cheovi	-13.835354	39.853813	730		IncorrectNumberOfColumns
+Mozambique	Mountain	Nahomo	-13.969414	39.954040 376 m	IncorrectNumberOfColumns
+Mozambique	Mountain	Silivala	-13709	40.377086	264 m	InvalidLatitude
+Mozambique	Mountain	Nacoma	??????	??????	211 m	NonNumericLatitude
+Mozambique	Mountain	Nango	-17.416771 34.200170	378 m	IncorrectNumberOfColumns
+Norway    Mountain	Jiehkkevárri	69.469243	19.877617	1834 m	IncorrectNumberOfColumns
+Peru	Mountain	Nevado Jonorane	-14.081996 -70.770504	5553 m	IncorrectNumberOfColumns
+New Zealand	Mountain	Mount Gifford Third Peak    -44.728700	168.061924	2081 m	IncorrectNumberOfColumns
+New Zealand	Mountain	Ngarangipukahu	-35.512645	173.566958 718 m	IncorrectNumberOfColumns
+New Zealand	Mountain	Rotopaunga	??????	??????	1856 m	NonNumericLatitude
+New Zealand	Mountain	Te Koikoi    -38.515959	176.810436	864 m	IncorrectNumberOfColumns
+New Zealand	Mountain	Taharewaewae    -38.786516	176.968982	1013 m	IncorrectNumberOfColumns
+New Zealand    Mountain	Mount Gorgeous	-41.449086	172.250825	1261 m	IncorrectNumberOfColumns
+New Zealand	Mountain	Mount Argelin	-41.809368	173.572157	???? m	NonNumericElevation
+New Zealand	Mountain	Meteor Peak	-43.515784	170.234158 2624 m	IncorrectNumberOfColumns
+New Zealand	Mountain	Aiguilles Rouges	-43.577512	170.291729	2950 ??	InvalidElevationUnit
+New Zealand	Mountain	Ferintosh Peak	??????	??????	2497 m	NonNumericLatitude
+New Zealand	Mountain	Chest Peak	-43.103225	172.020258 1936 m	IncorrectNumberOfColumns
+New Zealand    Mountain	Mount Barton	-41.556870	175.317244	889 m	IncorrectNumberOfColumns
+New Zealand	Mountain    Fleetwood Peak	-45.069400	167.262901	1286 m	IncorrectNumberOfColumns
+New Zealand	Mountain    Christmas Hill	-45.074114	167.309107	1165 m	IncorrectNumberOfColumns
+New Zealand	Mountain	Mount Owen	-45301	167.571273	1763 m	InvalidLatitude
+New Zealand	Mountain	Lorn Peak    -45.343978	168.791876	1638 m	IncorrectNumberOfColumns
+Peru	Mountain	Nevado Yanaulo	-11.912652	-74.820124 5142 m	IncorrectNumberOfColumns
+Pakistan	Mountain	Chhatri Mountain	33.305527	74.105762	???? m	NonNumericElevation
+Philippines	Mountain    Mount Tungtayan	16.833333	120.650000	1600 m	IncorrectNumberOfColumns
+Philippines	Mountain	Mount Llorente	10966	122.316728	1344 m	InvalidLatitude
+Russia	Mountain	Mount Dyultydag    41.956700	46.926300	4127 m	IncorrectNumberOfColumns
+Philippines	Mountain	Mount Orcog	16.483190	121.000028	???? m	NonNumericElevation
+South Africa    Mountain	Kanonkop	-29.248007	17.736402	948 m	IncorrectNumberOfColumns
+South Africa    Mountain	Rietberg	-29.485528	17.883860	1313 m	IncorrectNumberOfColumns
+South Africa	Mountain	Koeberg	-33.716387	18.555995 351 m	IncorrectNumberOfColumns
+South Africa	Mountain	Bordje	??????	??????	245 m	NonNumericLatitude
+South Africa	Mountain	Groot Phesantekraal	-33.798438	18.676031 95 m	IncorrectNumberOfColumns
+South Africa	Mountain	Wemmershoekpiek    -33.854240	19.189038	1687 m	IncorrectNumberOfColumns
+South Africa	Mountain	Aasvoëlberg	-34.210362	21.672250	430		IncorrectNumberOfColumns
+South Africa	Mountain	Spitskop	??????	??????	1204 m	NonNumericLatitude
+South Africa	Mountain	Vaalkop	-25.567645	26265	1402 m	InvalidLongitude
+South Africa	Mountain	Ribbokkop	-23.954091	28.532957	1461 ??	InvalidElevationUnit
+South Africa	Mountain    Tama Kgoshi	-24.724481	30.048128	1883 m	IncorrectNumberOfColumns
+South Africa    Mountain	Nyunyani	-22.823021	31.125341	454 m	IncorrectNumberOfColumns
+South Africa	Mountain	Bokweni    -27.369997	31.986502	675 m	IncorrectNumberOfColumns
+South Africa	Mountain	Mpampamana	-27.606478	31.901326	462 ??	InvalidElevationUnit
+South Africa	Mountain	Kamrant	-30.882623 23.054610	1263 m	IncorrectNumberOfColumns
+South Africa	Mountain	Bloukop	-29.050638	26.583792	???? m	NonNumericElevation
+South Africa	Mountain	Intabamnyama	-30.605451	27.669758	2432 ??	InvalidElevationUnit
+South Africa	Mountain	Grootberg	-32.222850	23.867171	???? m	NonNumericElevation
+South Africa	Mountain	Beyersfontein    -32.344544	23.357161	1123 m	IncorrectNumberOfColumns
+South Africa	Mountain	Spitskop	-32767	24.146866	958 m	InvalidLatitude
+South Africa	Mountain	Koedoeskop	-33.436730	25.170640	275		IncorrectNumberOfColumns
+South Africa	Mountain	Nsaly	-28.906220 30.617121	1338 m	IncorrectNumberOfColumns
+South Africa	Mountain	Nkengeni	-30.048407	30.187172 898 m	IncorrectNumberOfColumns
+South Africa	Mountain	Koba	-28.881569	31.056701	411		IncorrectNumberOfColumns
+Switzerland	Mountain	Dent Blanche	46.036780	7.610664	4357		IncorrectNumberOfColumns
+Taiwan	Mountain    Hong Mountain	24.444876	118.239261	80 m	IncorrectNumberOfColumns
+Taiwan	Mountain	Hutou Mountain	??????	??????	61 m	NonNumericLatitude
+Taiwan	Mountain	Dashe Mountain	24.258065	120.688706	182 ??	InvalidElevationUnit
+Taiwan	Mountain	Dapingshan	22.981928	120.355842 68 m	IncorrectNumberOfColumns
+Taiwan    Mountain	Beinan Main Mountain	23.051081	120.874347	3293 m	IncorrectNumberOfColumns
+Taiwan	Mountain    Neipo Mountain	24.946188	121.455944	368 m	IncorrectNumberOfColumns
+Taiwan	Mountain	Poluo Mountain	24.639374	121.477071	???? m	NonNumericElevation
+Taiwan	Mountain	Pingfong Mountain	24.149645	121342	3248 m	InvalidLongitude
+Taiwan	Mountain    Qilai Mountain	24.086174	121.323328	3559 m	IncorrectNumberOfColumns
+Tanzania	Mountain	Chenene	-5.585119	35.808563	1794 ??	InvalidElevationUnit
+Tanzania	Mountain	Parmusani    -8.834315	34.804419	1658 m	IncorrectNumberOfColumns
+United States	Mountain	Square Peak	48.866409	-114.104519 2675 m	IncorrectNumberOfColumns
+United States	Volcano	Haleakala	20.7100375889508	-156.25373840332	10,023 ft	InvalidElevationUnit
+United States	Mountain	Mount Bross	39.3352932229744	-106.107501983643	14,172 ft	InvalidElevationUnit
+United States	Mountain	Columbia Point	38.2963896	-105.2033248	13,980 ft	InvalidElevationUnit
+United States	Mountain	Mogollon Baldy	33.271632	-108.594446	3283		IncorrectNumberOfColumns
+United States	Mountain	Mount Zirkel	40.8312811391357	-106.663255691528	12,180 ft	InvalidElevationUnit
+United States	Mountain	Challenger Point	37.9797245503786	-105.602645874023	14,080 ft	InvalidElevationUnit
+United States	Mountain	Mount Frissell	42.055009	-73.475828	748		IncorrectNumberOfColumns
+United States    Mountain	Fresno Dome	37.452666	-119.546666	2298 m	IncorrectNumberOfColumns
+United States	Mountain	Wyoming Peak	42.6153280787144	-110.627431869507	11,378 ft	InvalidElevationUnit
+United States	Mountain	North Maroon Peak	39.0760430125401	-106.98709487915	14,014 ft	InvalidElevationUnit
+United States	Mountain	Lone Mountain	45.2782083170843	-111.450634002686	11,166 ft	InvalidElevationUnit
+United States	Mountain	Mount Douglas	45.297882	-110.184761	11,300 ft	InvalidElevationUnit
+United States	Mountain	Hyndman Peak	43.7493351828317	-114.131212234497	12,078 ft	InvalidElevationUnit
+United States	Mountain	Washakie Needles	43.7475371069627	-109.2018699646	12,518 ft	InvalidElevationUnit
+United States	Volcano	Mount Hood	45.3734935430662	-121.69581413269	11,239 ft	InvalidElevationUnit
+United States	Mountain	Clements Mountain	48.692433	-113.741026	???? m	NonNumericElevation
+United States	Mountain	Tweedy Mountain	45.4804752790816	-112.96537399292	11,154 ft	InvalidElevationUnit
+United States	Mountain	Hollowtop Mountain	45.6116358575251	-112.008275985718	10,513 ft	InvalidElevationUnit
+United States	Volcano	South Sister	44.1035502789205	-121.769371032715	10,358 ft	InvalidElevationUnit
+United States	Mountain	Mount Powell	39.7603213077231	-106.340618133545	13,534 ft	InvalidElevationUnit
+United States	Mountain	Denali	63.0695	-151.0074	20,320 ft	InvalidElevationUnit
+Venezuela	Mountain	Cerro La Yegüera	??????	??????	255 m	NonNumericLatitude
+Namibia	Mountain	Glynberg	-22.392090	16.546299	1777		IncorrectNumberOfColumns
+Namibia	Mountain	Grossemassiv	-22.317665	16.906763	1826		IncorrectNumberOfColumns
+Namibia	Mountain	Platkop    -24.627984	16.568174	1501 m	IncorrectNumberOfColumns
+Namibia	Mountain	Nagel	-25317	16.222028	1562 m	InvalidLatitude
+Namibia	Mountain	Hahnenkarn	-25.643697 16.463153	1864 m	IncorrectNumberOfColumns
+Namibia    Mountain	Ganaams	-25.583271	16.568878	1928 m	IncorrectNumberOfColumns
+Namibia	Mountain    Rotkuppe	-27.058584	15.586578	592 m	IncorrectNumberOfColumns
+Namibia    Mountain	Eroseck	-22.515506	17.142596	1888 m	IncorrectNumberOfColumns
+Namibia	Mountain	Bitter	??????	??????	1002 m	NonNumericLatitude
+Canada	Mountain	Mont Brome	45.289210	-72.637891	554		IncorrectNumberOfColumns
+Canada	Mountain	Mount Edith Cavell	52.667419	-118.056633	3368 ??	InvalidElevationUnit
+Sri Lanka	Mountain	Little Adam's Peak	6.865050	81.063017 1151 m	IncorrectNumberOfColumns
+Sri Lanka	Mountain	Buwalpola Kanda    6.974863	80.881605	1681 m	IncorrectNumberOfColumns
+Chile	Mountain	Alto de las Placetas	-34.855087	-70.469549	???? m	NonNumericElevation
+Chile	Mountain	Cerro Tres Horquetas	-39.022835	-71916	1533 m	InvalidLongitude
+Chile	Mountain	Cerro Casa de Piedra	-38.249033	-71.806126	1711 ??	InvalidElevationUnit
+Chile	Mountain	Cerro Rincón de Abra	??????	??????	725 m	NonNumericLatitude
+Chile    Mountain	Cerro Risco Bayo	-34.299958	-71.218016	901 m	IncorrectNumberOfColumns
+Chile	Mountain	Cerro Mancumán	-34.414249	-71.345908	???? m	NonNumericElevation
+Chile	Mountain	Cerro El Jote	-29.995756	-71.170221 839 m	IncorrectNumberOfColumns
+Chile	Volcano	Volcán Churicagua	-17.857906	-69.492687	5256		IncorrectNumberOfColumns
+Chile    Mountain	Cerro Moreno	-22.982317	-67.153988	4524 m	IncorrectNumberOfColumns
+Chile	Volcano	Volcán Puntiagudo	-40.974045	-72.266216	2498		IncorrectNumberOfColumns
+Chile    Mountain	Cerro El Mirador	-39.202113	-72.610524	520 m	IncorrectNumberOfColumns
+Chile	Mountain	Cerro Las Sierrecillas	-33.966890	-70.856538	???? m	NonNumericElevation
+Colombia    Mountain	Cerro	7.291370	-72.806362	4008 m	IncorrectNumberOfColumns
+Colombia	Mountain	Loma San Jeronimo	5.812631	-73.317684	3310		IncorrectNumberOfColumns
+Colombia	Mountain	P.	7.636135	-76.433180	1121		IncorrectNumberOfColumns
+Ecuador	Mountain	Genovesa	??????	??????	64 m	NonNumericLatitude
+Ecuador	Mountain	Ilaló    -0.258002	-78.410616	3150 m	IncorrectNumberOfColumns
+Ecuador	Mountain	Monja Chica	-1.682701	-78.411941	5080 ??	InvalidElevationUnit
+Ecuador	Mountain	Cuniburo	-0.037132	-78.152913 3346 m	IncorrectNumberOfColumns
+Ecuador	Mountain	Cerro Arquitecto	??????	??????	4307 m	NonNumericLatitude
+Ecuador	Mountain	Cerro Cabeza	-0.999432	-78.876824	???? m	NonNumericElevation
+Ecuador	Mountain	El Centinela    -0.478938	-79.030175	2570 m	IncorrectNumberOfColumns
+Ethiopia	Mountain	Ualle Issi	11.420321	41.326805 492 m	IncorrectNumberOfColumns
+Czechia	Mountain	Otava	49.735400	16.033420	734		IncorrectNumberOfColumns
+Andorra    Mountain	Casamanya Peak	42.584607	1.565447	2740 m	IncorrectNumberOfColumns
+Fiji	Mountain	Korokayiu	-18.183330	177900	312 m	InvalidLongitude
+Fiji	Mountain	Tomuna    -17.650000	178.783330	272 m	IncorrectNumberOfColumns
+Ghana	Mountain	Asofa	5.644325	-0.280341	166		IncorrectNumberOfColumns
+Germany	Mountain	Hinterreintalschrofen	??????	??????	2670 m	NonNumericLatitude
